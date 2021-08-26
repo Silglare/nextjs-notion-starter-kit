@@ -8,12 +8,12 @@ module.exports = {
 
   // basic site info (required)
   name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
+  domain: ''https://the-mai-unverse.notion.site/the-mai-unverse/fd501538ae484486bcd0c3a04bf2c363',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'https://the-mai-unverse.notion.site/the-mai-unverse/fd501538ae484486bcd0c3a04bf2c363',
+  socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)

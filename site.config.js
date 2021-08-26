@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Transitive Bullshit',
-  domain: ''https://the-mai-unverse.notion.site/the-mai-unverse/fd501538ae484486bcd0c3a04bf2c363',
+  domain: 'https://the-mai-unverse.notion.site/the-mai-unverse/fd501538ae484486bcd0c3a04bf2c363',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
